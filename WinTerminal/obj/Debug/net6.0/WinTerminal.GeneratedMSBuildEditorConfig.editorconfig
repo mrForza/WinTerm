@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinTerminal
-build_property.ProjectDir = C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\
+build_property.ProjectDir = C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerm\WinTerm\WinTerminal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinTerminal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca22d67be110d0d7a2143ca4f62d54622c6bf04d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ada64810b60bf169e4ccc6095bb73bdf31bcb85")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinTerminal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinTerminal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

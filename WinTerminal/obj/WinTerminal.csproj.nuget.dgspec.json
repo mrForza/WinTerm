@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerminal\\WinTerminal\\WinTerminal.csproj": {}
+    "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerm\\WinTerm\\WinTerminal\\WinTerminal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerminal\\WinTerminal\\WinTerminal.csproj": {
+    "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerm\\WinTerm\\WinTerminal\\WinTerminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerminal\\WinTerminal\\WinTerminal.csproj",
+        "projectUniqueName": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerm\\WinTerm\\WinTerminal\\WinTerminal.csproj",
         "projectName": "WinTerminal",
-        "projectPath": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerminal\\WinTerminal\\WinTerminal.csproj",
+        "projectPath": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerm\\WinTerm\\WinTerminal\\WinTerminal.csproj",
         "packagesPath": "C:\\Users\\inter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerminal\\WinTerminal\\obj\\",
+        "outputPath": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WinTerm\\WinTerm\\WinTerminal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\inter\\AppData\\Roaming\\NuGet\\NuGet.Config",
