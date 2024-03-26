@@ -1,0 +1,41 @@
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.exe
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.deps.json
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.runtimeconfig.json
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.pdb
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.csproj.AssemblyReference.cache
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\refint\WinTerminal.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.pdb
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\ref\WinTerminal.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\inter\OneDrive\Документы\C Sharp Projects\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.csproj.CopyComplete
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.exe
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.deps.json
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.runtimeconfig.json
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\WinTerminal.pdb
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.csproj.AssemblyReference.cache
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.AssemblyInfoInputs.cache
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.AssemblyInfo.cs
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.csproj.CoreCompileInputs.cache
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.sourcelink.json
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.csproj.CopyComplete
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\refint\WinTerminal.dll
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.pdb
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\WinTerminal.genruntimeconfig.cache
+C:\Users\inter\Documents\Projects\C#\Main Projects\WinTerminal\WinTerminal\obj\Debug\net6.0\ref\WinTerminal.dll
